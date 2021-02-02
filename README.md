@@ -10,6 +10,8 @@ java is a oop'programming,general purpose,class based language.it is a computing
 # what are the concepts in java
 * abstarction
 * encapsulation
-* class and object
 * polymorphsim
+* class and object
+  * class
+  * object
 
