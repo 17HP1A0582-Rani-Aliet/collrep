@@ -34,5 +34,5 @@ s.no|s.name|s.marks
 2|Rama|98
 
 # insert image
-[My Image](img.jpg)
+![Alt My Image](img.jpg)
 
