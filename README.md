@@ -21,3 +21,8 @@ java is a oop'programming,general purpose,class based language.it is a computing
 
 # Tell me about your college
 My college name is ***Andhra Loyola Institute of Engineering And Technology***
+
+# create link
+The syntax for create a alink[Text](url)
+
+ex:[Google](https://www.google.com/)
