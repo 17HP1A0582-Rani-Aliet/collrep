@@ -36,3 +36,12 @@ s.no|s.name|s.marks
 # insert image
 ![Alt My Image](img.jpg)
 
+
+# insert code
+Expain about sum of two numbers using python
+
+    a=10
+    b=5
+    c=a+b
+    print("the sum{} and{} is{}".format(a,b,c))
+
