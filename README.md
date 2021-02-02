@@ -33,3 +33,6 @@ s.no|s.name|s.marks
 1|Rani|99
 2|Rama|98
 
+# insert image
+[My Image](img.jpg)
+
