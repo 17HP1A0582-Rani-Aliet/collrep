@@ -26,3 +26,10 @@ My college name is ***Andhra Loyola Institute of Engineering And Technology***
 The syntax for create a alink[Text](url)
 
 ex:[Google](https://www.google.com/)
+
+# create a table
+s.no|s.name|s.marks
+----|------|-----
+1|Rani|99
+2|Rama|98
+
