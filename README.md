@@ -20,4 +20,4 @@ java is a oop'programming,general purpose,class based language.it is a computing
  2.two
 
 # Tell me about your college
-My college name is ** Andhra Loyola Institute of Engineering And Technology **
+My college name is ***Andhra Loyola Institute of Engineering And Technology***
